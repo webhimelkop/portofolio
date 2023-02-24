@@ -429,7 +429,7 @@ body.dark {
     top: 40px;
     border-radius: 25px;
     animation: progresshtml 2s  linear;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 1;
     
     
     
